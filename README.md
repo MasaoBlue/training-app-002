@@ -1,2 +1,8 @@
 # training-app-002
-色々実装して試してみるためのアプリです
+
+Repository for implementation practice.
+
+# Name: Record Myself
+
+An app for recording myself.
+
