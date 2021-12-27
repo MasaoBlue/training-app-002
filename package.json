@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "precommit:front": "npm run precommit --prefix ./record-myself-front",
+    "prepare": "husky install"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": [
+        "npma run precommit:front"
+      ]
+    }
+  },
+  "devDependencies": {
+    "husky": "^7.0.4"
+  }
+}

@@ -14,6 +14,11 @@ A memo of the information referenced during development.
 npx create-next-app@latest --ts
 ```
 
+### Lint settings
+
+Avoid using `next lint` to use lint-staged.
+
+- [ESLint not working with lint-staged · Issue #27997 · vercel/next.js](https://github.com/vercel/next.js/issues/27997)
 ## Backend
 
 - Kotlin

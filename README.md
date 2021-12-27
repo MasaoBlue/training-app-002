@@ -6,3 +6,8 @@ Repository for implementation practice.
 
 An app for recording myself.
 
+# Directory
+
+```
+./record-myself-front // Frontend resources
+```
