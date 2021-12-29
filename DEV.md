@@ -23,5 +23,12 @@ Avoid using `next lint` to use lint-staged.
 
 - Kotlin
 
+### Create Project
 
+- [Spring Initializr](https://start.spring.io/)
+  - Maven Project
+  - Kotlin
+  - Spring Boot 2.6.2
+  - Java 17
+  - Dependencies: Spring Web, Spring Boot DevTools
 
